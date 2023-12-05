@@ -156,6 +156,7 @@ export async function deleteContact(id: string) {
     first: "Alex",
     last: "Anderson",
     twitter: "@ralex1993",
+    favorite: true,
   },
   {
     avatar:
